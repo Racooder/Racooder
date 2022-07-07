@@ -8,7 +8,29 @@ a:hover {
     color: white;
 }
 
-.account-img {
+.externallinks {
+    display: flex;
+}
+
+.externallink {
+    color: white;
+    display: table;
+    background-color: #111111;
+    padding-top: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 4px;
+    margin-right: 5px;
+}
+
+.externallink span {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.linkimg {
     width: 20px;
     height: 20px;
+    margin-right: 5px;
+    margin-bottom: 1px;
 }
