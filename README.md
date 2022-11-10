@@ -1,6 +1,6 @@
 ### Hey I'm Racooder 🦝
 
-I'm a hobby game developer, like to try new things and make discord bots for servers like [JC World](https://discord.gg/gbcQpsR).
+I'm a hobby game developer and like to try new things.
 
 <div align="center">
     <a href="https://discord.gg/9Y8BE2A6cj">
