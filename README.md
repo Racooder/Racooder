@@ -1,6 +1,7 @@
 ### Hey I'm Racooder 🦝
 
-I'm a hobby game developer and like to try new things.
+I'm a hobby developer and like to try new things.
+My biggest project is [DiamondFire Tools](https://github.com/Racooder/DiamondFire-Tools) a web tool for the [DiamondFire](https://mcdiamondfire.com) minecraft server.
 
 <div align="center">
     <a href="https://discord.gg/9Y8BE2A6cj">
