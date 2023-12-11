@@ -8,3 +8,7 @@ My biggest project is [DiamondFire Tools](https://github.com/Racooder/DiamondFir
         <img src="https://img.shields.io/discord/651800564966883328?color=blue&label=Racoonia&logo=discord&logoColor=white" alt="Discord server"/>
     </a>
 </div>
+
+<br>
+
+[![Racooder's GitHub stats](https://github-readme-stats.vercel.app/api?username=racooder&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
