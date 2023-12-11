@@ -4,6 +4,7 @@ I'm a hobby developer and like to try new things.
 My biggest project is [DiamondFire Tools](https://github.com/Racooder/DiamondFire-Tools) a web tool for the [DiamondFire](https://mcdiamondfire.com) minecraft server.
 
 <div align="center">
+    <a href="https://wakatime.com/@018c598e-0b38-475d-bba9-0b822803bd91"><img src="https://wakatime.com/badge/user/018c598e-0b38-475d-bba9-0b822803bd91.svg" alt="Total time coded since Dec 11 2023" /></a>
     <a href="https://discord.gg/9Y8BE2A6cj">
         <img src="https://img.shields.io/discord/651800564966883328?color=blue&label=Racoonia&logo=discord&logoColor=white" alt="Discord server"/>
     </a>
