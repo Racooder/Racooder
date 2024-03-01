@@ -1,7 +1,7 @@
 ### Hey I'm Racooder 🦝
 
 I'm a hobby developer and like to try new things.
-My biggest project is [DiamondFire Tools](https://github.com/Racooder/DiamondFire-Tools) a web tool for the [DiamondFire](https://mcdiamondfire.com) minecraft server.
+My biggest project is [guardian](https://github.com/Racooder/guardian) a discord bot for my [discord server](discord.gg/9Y8BE2A6cj).
 
 [![forthebadge](https://forthebadge.com/images/featured/featured-contains-cat-gifs.svg)](https://forthebadge.com)
 
