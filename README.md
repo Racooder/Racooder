@@ -13,3 +13,5 @@ My biggest project is [guardian](https://github.com/Racooder/guardian-bot) a bot
 
 [![Top langs dark](https://github-readme-stats.vercel.app/api/top-langs/?username=racooder&layout=compact&theme=dracula)](https://github.com/racooder#gh-dark-mode-only)
 [![Top langs light](https://github-readme-stats.vercel.app/api/top-langs/?username=racooder&layout=compact&theme=buefy)](https://github.com/racooder#gh-light-mode-only)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Racooder&theme=react)
